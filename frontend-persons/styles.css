@@ -1,0 +1,4 @@
+/* styles.css */
+body { min-height: 100vh; }
+.table td, .table th { vertical-align: middle; }
+code { font-size: 0.95em; }
