@@ -54,9 +54,7 @@ http://localhost:5500
 
 ## Configuration
 
-L’URL du backend REST peut être modifiée directement depuis l’interface utilisateur.  
-Cette configuration est sauvegardée dans le navigateur (LocalStorage).
-
+On peut modifier l'url de backend via le code du "app.js"
 Valeur par défaut :
 http://localhost:8080/TestRS/api
 
